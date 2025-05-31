@@ -1,3 +1,6 @@
 [submodule "Express/expressjs.com/starter/installing/myapp"]
 	path = Express/expressjs.com/starter/installing/myapp
 	url = //ANDI1/Users/Public/Git/MyIT/Express/expressjs.com/starter/installing/myapp.git
+[submodule "Wordpress/lysit.tech"]
+	path = Wordpress/lysit.tech
+	url = //ANDI1/Users/Public/Git/MyIT/Wordpress/lysit.tech.git
