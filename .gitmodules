@@ -4,6 +4,9 @@
 [submodule "Wordpress/lysit.tech"]
 	path = Wordpress/lysit.tech
 	url = //ANDI1/Users/Public/Git/MyIT/Wordpress/lysit.tech.git
-[submodule "Inertia/laravel-react.git"]
-	path = Inertia/laravel-react.git
+[submodule "Inertia/laravel-react"]
+	path = Inertia/laravel-react
 	url = //ANDI1/Users/Public/Git/MyIT/Inertia/laravel-react.git
+[submodule "Inertia/laravel-vue"]
+	path = Inertia/laravel-vue
+	url = //ANDI1/Users/Public/Git/MyIT/Inertia/laravel-vue.git
