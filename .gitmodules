@@ -10,3 +10,9 @@
 [submodule "Inertia/laravel-vue"]
 	path = Inertia/laravel-vue
 	url = //ANDI1/Users/Public/Git/MyIT/Inertia/laravel-vue.git
+[submodule "Next/nextjs.org/learn/dashboard-app/nextjs-dashboard"]
+	path = Next/nextjs.org/learn/dashboard-app/nextjs-dashboard
+	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/learn/dashboard-app/nextjs-dashboard.git
+[submodule "Next/nextjs.org/learn/pages-router/nextjs-blog"]
+	path = Next/nextjs.org/learn/pages-router/nextjs-blog
+	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/learn/pages-router/nextjs-blog.git
