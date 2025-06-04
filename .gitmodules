@@ -19,3 +19,6 @@
 [submodule "Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app"]
 	path = Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app
 	url = //ANDI1/Users/Public/Git/MyIT/Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app.git
+[submodule "Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash"]
+	path = Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash.git
