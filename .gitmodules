@@ -22,3 +22,6 @@
 [submodule "Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash"]
 	path = Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash
 	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash.git
+[submodule "Expo/docs.expo.dev/my-app-v50"]
+	path = Expo/docs.expo.dev/my-app-v50
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v50.git
