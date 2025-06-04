@@ -16,3 +16,6 @@
 [submodule "Next/nextjs.org/learn/pages-router/nextjs-blog"]
 	path = Next/nextjs.org/learn/pages-router/nextjs-blog
 	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/learn/pages-router/nextjs-blog.git
+[submodule "Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app"]
+	path = Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app.git
