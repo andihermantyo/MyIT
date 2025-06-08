@@ -25,3 +25,12 @@
 [submodule "Expo/docs.expo.dev/my-app-v50"]
 	path = Expo/docs.expo.dev/my-app-v50
 	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v50.git
+[submodule "Expo/docs.expo.dev/my-app-v51"]
+	path = Expo/docs.expo.dev/my-app-v51
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51.git
+[submodule "Expo/docs.expo.dev/my-app-v51-navigation"]
+	path = Expo/docs.expo.dev/my-app-v51-navigation
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51-navigation.git
+[submodule "Expo/docs.expo.dev/my-app-v51-typescript"]
+	path = Expo/docs.expo.dev/my-app-v51-typescript
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51-typescript.git
