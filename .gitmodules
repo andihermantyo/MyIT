@@ -46,3 +46,15 @@
 [submodule "Expo/docs.expo.dev/my-app-v52-typescript"]
 	path = Expo/docs.expo.dev/my-app-v52-typescript
 	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v52-typescript.git
+[submodule "Expo/docs.expo.dev/my-app-v53"]
+	path = Expo/docs.expo.dev/my-app-v53
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53.git
+[submodule "Expo/docs.expo.dev/my-app-v53-blank"]
+	path = Expo/docs.expo.dev/my-app-v53-blank
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-blank.git
+[submodule "Expo/docs.expo.dev/my-app-v53-blank-typescript"]
+	path = Expo/docs.expo.dev/my-app-v53-blank-typescript
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-blank-typescript.git
+[submodule "Expo/docs.expo.dev/my-app-v53-tabs"]
+	path = Expo/docs.expo.dev/my-app-v53-tabs
+	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-tabs.git
