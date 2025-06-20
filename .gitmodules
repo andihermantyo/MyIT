@@ -58,3 +58,9 @@
 [submodule "Expo/docs.expo.dev/my-app-v53-tabs"]
 	path = Expo/docs.expo.dev/my-app-v53-tabs
 	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-tabs.git
+[submodule "Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15"]
+	path = Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15
+	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15.git
+[submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15"]
+	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15
+	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15.git
