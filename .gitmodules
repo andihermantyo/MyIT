@@ -1,66 +1,66 @@
 [submodule "Express/expressjs.com/starter/installing/myapp"]
 	path = Express/expressjs.com/starter/installing/myapp
-	url = //ANDI1/Users/Public/Git/MyIT/Express/expressjs.com/starter/installing/myapp.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Express/expressjs.com/starter/installing/myapp.git
 [submodule "Wordpress/lysit.tech"]
 	path = Wordpress/lysit.tech
-	url = //ANDI1/Users/Public/Git/MyIT/Wordpress/lysit.tech.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Wordpress/lysit.tech.git
 [submodule "Inertia/laravel-react"]
 	path = Inertia/laravel-react
-	url = //ANDI1/Users/Public/Git/MyIT/Inertia/laravel-react.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Inertia/laravel-react.git
 [submodule "Inertia/laravel-vue"]
 	path = Inertia/laravel-vue
-	url = //ANDI1/Users/Public/Git/MyIT/Inertia/laravel-vue.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Inertia/laravel-vue.git
 [submodule "Next/nextjs.org/learn/dashboard-app/nextjs-dashboard"]
 	path = Next/nextjs.org/learn/dashboard-app/nextjs-dashboard
-	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/learn/dashboard-app/nextjs-dashboard.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/learn/dashboard-app/nextjs-dashboard.git
 [submodule "Next/nextjs.org/learn/pages-router/nextjs-blog"]
 	path = Next/nextjs.org/learn/pages-router/nextjs-blog
-	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/learn/pages-router/nextjs-blog.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/learn/pages-router/nextjs-blog.git
 [submodule "Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app"]
 	path = Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/chaicode.com/blog/building-full-stack-mobile-app-with-react-native-and-appwrite/chai-app.git
 [submodule "Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash"]
 	path = Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/tutorial/create-your-first-app/StickerSmash.git
 [submodule "Expo/docs.expo.dev/my-app-v50"]
 	path = Expo/docs.expo.dev/my-app-v50
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v50.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v50.git
 [submodule "Expo/docs.expo.dev/my-app-v51"]
 	path = Expo/docs.expo.dev/my-app-v51
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v51.git
 [submodule "Expo/docs.expo.dev/my-app-v51-navigation"]
 	path = Expo/docs.expo.dev/my-app-v51-navigation
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51-navigation.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v51-navigation.git
 [submodule "Expo/docs.expo.dev/my-app-v51-typescript"]
 	path = Expo/docs.expo.dev/my-app-v51-typescript
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v51-typescript.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v51-typescript.git
 [submodule "Expo/docs.expo.dev/my-app-v52"]
 	path = Expo/docs.expo.dev/my-app-v52
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v52.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v52.git
 [submodule "Expo/docs.expo.dev/my-app-v52-blank"]
 	path = Expo/docs.expo.dev/my-app-v52-blank
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v52-blank.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v52-blank.git
 [submodule "Expo/docs.expo.dev/my-app-v52-tabs"]
 	path = Expo/docs.expo.dev/my-app-v52-tabs
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v52-tabs.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v52-tabs.git
 [submodule "Expo/docs.expo.dev/my-app-v52-typescript"]
 	path = Expo/docs.expo.dev/my-app-v52-typescript
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v52-typescript.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v52-typescript.git
 [submodule "Expo/docs.expo.dev/my-app-v53"]
 	path = Expo/docs.expo.dev/my-app-v53
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v53.git
 [submodule "Expo/docs.expo.dev/my-app-v53-blank"]
 	path = Expo/docs.expo.dev/my-app-v53-blank
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-blank.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v53-blank.git
 [submodule "Expo/docs.expo.dev/my-app-v53-blank-typescript"]
 	path = Expo/docs.expo.dev/my-app-v53-blank-typescript
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-blank-typescript.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v53-blank-typescript.git
 [submodule "Expo/docs.expo.dev/my-app-v53-tabs"]
 	path = Expo/docs.expo.dev/my-app-v53-tabs
-	url = //ANDI1/Users/Public/Git/MyIT/Expo/docs.expo.dev/my-app-v53-tabs.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v53-tabs.git
 [submodule "Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15"]
 	path = Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15
-	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v15.git
 [submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15"]
 	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15
-	url = //ANDI1/Users/Public/Git/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15.git
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15.git
