@@ -64,3 +64,9 @@
 [submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15"]
 	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v15.git
+[submodule "Laravel/laravel.com/docs/9.x/installation#getting-started-on-linux/example-app"]
+	path = "Laravel/laravel.com/docs/9.x/installation#getting-started-on-linux/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/9.x/installation#getting-started-on-linux/example-app.git"
+[submodule "Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app"]
+	path = "Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app.git"
