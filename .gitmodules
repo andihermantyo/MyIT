@@ -76,3 +76,23 @@
 [submodule "Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app"]
 	path = "Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app"
 	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app.git"
+[submodule "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app"]
+	path = "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-api"]
+	path = "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-api"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-api.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-react"]
+	path = "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-react"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-react.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-vue"]
+	path = "Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-vue"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#creating-a-laravel-project/example-app-breeze-vue.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/11.x/installation#choosing-your-sail-services/example-app"]
+	path = "Laravel/laravel.com/docs/11.x/installation#choosing-your-sail-services/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#choosing-your-sail-services/example-app.git"
+	branch = main
