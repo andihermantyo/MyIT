@@ -70,3 +70,9 @@
 [submodule "Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app"]
 	path = "Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app"
 	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/9.x/installation#your-first-laravel-project/example-app.git"
+[submodule "Laravel/laravel.com/docs/10.x/installation#creating-a-laravel-project/example-app"]
+	path = "Laravel/laravel.com/docs/10.x/installation#creating-a-laravel-project/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/10.x/installation#creating-a-laravel-project/example-app.git"
+[submodule "Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app"]
+	path = "Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/10.x/installation#sail-on-linux/example-app.git"
