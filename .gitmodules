@@ -96,3 +96,19 @@
 	path = "Laravel/laravel.com/docs/11.x/installation#choosing-your-sail-services/example-app"
 	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/11.x/installation#choosing-your-sail-services/example-app.git"
 	branch = main
+[submodule "Laravel/laravel.com/docs/12.x/installation#creating-a-laravel-project/example-app"]
+	path = "Laravel/laravel.com/docs/12.x/installation#creating-a-laravel-project/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/12.x/installation#creating-a-laravel-project/example-app.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/12.x/starter-kits#livewire/example-app"]
+	path = "Laravel/laravel.com/docs/12.x/starter-kits#livewire/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/12.x/starter-kits#livewire/example-app.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/12.x/starter-kits#react/example-app"]
+	path = "Laravel/laravel.com/docs/12.x/starter-kits#react/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/12.x/starter-kits#react/example-app.git"
+	branch = main
+[submodule "Laravel/laravel.com/docs/12.x/starter-kits#vue/example-app"]
+	path = "Laravel/laravel.com/docs/12.x/starter-kits#vue/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/12.x/starter-kits#vue/example-app.git"
+	branch = main
