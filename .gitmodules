@@ -124,3 +124,6 @@
 [submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v13"]
 	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v13
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v13.git
+[submodule "Expo/Simon Grimm/tabs-and-drawer"]
+	path = Expo/Simon Grimm/tabs-and-drawer
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/Simon Grimm/tabs-and-drawer.git
