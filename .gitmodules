@@ -127,3 +127,7 @@
 [submodule "Expo/Simon Grimm/tabs-and-drawer"]
 	path = Expo/Simon Grimm/tabs-and-drawer
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/Simon Grimm/tabs-and-drawer.git
+[submodule "Expo/tamagui.dev/docs/intro/introduction/myapp"]
+	path = Expo/tamagui.dev/docs/intro/introduction/myapp
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/tamagui.dev/docs/intro/introduction/myapp.git
+	branch = main
