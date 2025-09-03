@@ -131,3 +131,7 @@
 	path = Expo/tamagui.dev/docs/intro/introduction/myapp
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/tamagui.dev/docs/intro/introduction/myapp.git
 	branch = main
+[submodule "Expo/tamagui.dev/docs/intro/introduction/myapp-exporouter"]
+	path = Expo/tamagui.dev/docs/intro/introduction/myapp-exporouter
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/tamagui.dev/docs/intro/introduction/myapp-exporouter.git
+	branch = main
