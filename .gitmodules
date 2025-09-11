@@ -145,3 +145,15 @@
 [submodule "Expo/tamagui.dev/docs/guides/expo#native/my-app"]
 	path = "Expo/tamagui.dev/docs/guides/expo#native/my-app"
 	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/tamagui.dev/docs/guides/expo#native/my-app.git"
+[submodule "Expo/docs.expo.dev/my-app-v54"]
+	path = Expo/docs.expo.dev/my-app-v54
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v54.git
+[submodule "Expo/docs.expo.dev/my-app-v54-blank"]
+	path = Expo/docs.expo.dev/my-app-v54-blank
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v54-blank.git
+[submodule "Expo/docs.expo.dev/my-app-v54-blank-typescript"]
+	path = Expo/docs.expo.dev/my-app-v54-blank-typescript
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v54-blank-typescript.git
+[submodule "Expo/docs.expo.dev/my-app-v54-tabs"]
+	path = Expo/docs.expo.dev/my-app-v54-tabs
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v54-tabs.git
