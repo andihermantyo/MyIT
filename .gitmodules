@@ -191,3 +191,7 @@
 	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv80
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv80.git
 	branch = main
+[submodule "React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv81"]
+	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv81
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv81.git
+	branch = main
