@@ -207,3 +207,15 @@
 [submodule "Expo/docs.expo.dev/my-app-v55-tabs"]
 	path = Expo/docs.expo.dev/my-app-v55-tabs
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v55-tabs.git
+[submodule "React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv82"]
+	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv82
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv82.git
+	branch = main
+[submodule "React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv83"]
+	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv83
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv83.git
+	branch = main
+[submodule "React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv84"]
+	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv84
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv84.git
+	branch = main
