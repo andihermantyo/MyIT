@@ -219,3 +219,7 @@
 	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv84
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv84.git
 	branch = main
+[submodule "Laravel/laravel.com/docs/13.x/installation#creating-a-laravel-project/example-app"]
+	path = "Laravel/laravel.com/docs/13.x/installation#creating-a-laravel-project/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/13.x/installation#creating-a-laravel-project/example-app.git"
+	branch = main
