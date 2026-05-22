@@ -227,3 +227,6 @@
 	path = React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv85
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/React-Native/reactnative.dev/docs/getting-started-without-a-framework/AwesomeProjectv85.git
 	branch = main
+[submodule "Flutter/docs.flutter.dev/install/quick/trying_flutter"]
+	path = Flutter/docs.flutter.dev/install/quick/trying_flutter
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Flutter/docs.flutter.dev/install/quick/trying_flutter.git
