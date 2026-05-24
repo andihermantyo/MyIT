@@ -230,3 +230,9 @@
 [submodule "Flutter/docs.flutter.dev/install/quick/trying_flutter"]
 	path = Flutter/docs.flutter.dev/install/quick/trying_flutter
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Flutter/docs.flutter.dev/install/quick/trying_flutter.git
+[submodule "Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v16"]
+	path = Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v16
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/app/getting-started/installation/my-app-router-v16.git
+[submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16"]
+	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16.git
