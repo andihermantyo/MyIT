@@ -236,3 +236,15 @@
 [submodule "Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16"]
 	path = Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Next/nextjs.org/docs/pages/getting-started/installation/my-pages-router-v16.git
+[submodule "Expo/docs.expo.dev/my-app-v56"]
+	path = Expo/docs.expo.dev/my-app-v56
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v56.git
+[submodule "Expo/docs.expo.dev/my-app-v56-blank"]
+	path = Expo/docs.expo.dev/my-app-v56-blank
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v56-blank.git
+[submodule "Expo/docs.expo.dev/my-app-v56-blank-typescript"]
+	path = Expo/docs.expo.dev/my-app-v56-blank-typescript
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v56-blank-typescript.git
+[submodule "Expo/docs.expo.dev/my-app-v56-tabs"]
+	path = Expo/docs.expo.dev/my-app-v56-tabs
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v56-tabs.git
