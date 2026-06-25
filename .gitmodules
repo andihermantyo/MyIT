@@ -251,3 +251,6 @@
 [submodule "Angular/router"]
 	path = Angular/router
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Angular/router.git
+[submodule "Astro/astro.build/smoggy-shepherd"]
+	path = Astro/astro.build/smoggy-shepherd
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Astro/astro.build/smoggy-shepherd.git
