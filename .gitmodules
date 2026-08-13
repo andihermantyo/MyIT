@@ -254,3 +254,12 @@
 [submodule "Astro/astro.build/smoggy-shepherd"]
 	path = Astro/astro.build/smoggy-shepherd
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Astro/astro.build/smoggy-shepherd.git
+[submodule "Blazor/microsoft.com/BlazorApp"]
+	path = Blazor/microsoft.com/BlazorApp
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Blazor/microsoft.com/BlazorApp.git
+[submodule "Laravel/laravel.com/docs/13.x/installation#creating-an-application/example-app"]
+	path = "Laravel/laravel.com/docs/13.x/installation#creating-an-application/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/13.x/installation#creating-an-application/example-app.git"
+[submodule "Laravel/laravel.com/docs/13.x/installation#getting-started-using-ai/example-app"]
+	path = "Laravel/laravel.com/docs/13.x/installation#getting-started-using-ai/example-app"
+	url = "ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/13.x/installation#getting-started-using-ai/example-app.git"
