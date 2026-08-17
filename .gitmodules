@@ -268,3 +268,15 @@
 [submodule "Laravel/laravel.com/docs/13.x/getting-started-using-ai/example-app"]
 	path = Laravel/laravel.com/docs/13.x/getting-started-using-ai/example-app
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Laravel/laravel.com/docs/13.x/getting-started-using-ai/example-app.git
+[submodule "Expo/docs.expo.dev/my-app-v57"]
+	path = Expo/docs.expo.dev/my-app-v57
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v57.git
+[submodule "Expo/docs.expo.dev/my-app-v57-blank"]
+	path = Expo/docs.expo.dev/my-app-v57-blank
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v57-blank.git
+[submodule "Expo/docs.expo.dev/my-app-v57-blank-typescript"]
+	path = Expo/docs.expo.dev/my-app-v57-blank-typescript
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v57-blank-typescript.git
+[submodule "Expo/docs.expo.dev/my-app-v57-tabs"]
+	path = Expo/docs.expo.dev/my-app-v57-tabs
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v57-tabs.git
