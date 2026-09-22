@@ -280,3 +280,6 @@
 [submodule "Expo/docs.expo.dev/my-app-v57-tabs"]
 	path = Expo/docs.expo.dev/my-app-v57-tabs
 	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Expo/docs.expo.dev/my-app-v57-tabs.git
+[submodule "Antigravity/antigravity.google/docs/cli/tutorial/agy-demo"]
+	path = Antigravity/antigravity.google/docs/cli/tutorial/agy-demo
+	url = ssh://andi@192.168.1.254/home/andi/Git/MyDocument/MyIT/Antigravity/antigravity.google/docs/cli/tutorial/agy-demo.git
